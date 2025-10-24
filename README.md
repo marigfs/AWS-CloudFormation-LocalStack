@@ -101,7 +101,7 @@ A arquitetura geral é representada pelo diagrama abaixo:
 
 ### ⚙️ Criação da Função Lambda
 
-![Criação da Função Lambda](./images/criacao_labda_function.png)
+![Criação da Função Lambda](./images/criacao_lambda_function.png)
 
 ### 🔔 Validação da Notificação S3 → Lambda
 
