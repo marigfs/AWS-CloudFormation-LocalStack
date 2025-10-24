@@ -8,6 +8,7 @@ Além disso, uma API criada no **API Gateway** permite consultar as notas fiscai
 ---
 
 ## 🗂️ Estrutura do Repositório
+
 ```
 AWS-CLOUDFORMATION-LOCALSTACK/
 ├── images/ # Diagramas e prints ilustrativos do projeto
@@ -29,6 +30,7 @@ AWS-CLOUDFORMATION-LOCALSTACK/
 ├── notification_roles.json # Configuração das permissões e notificações do S3 → Lambda
 ├── README.md # (Você está aqui)
 ```
+
 ---
 
 ## 🧩 Arquitetura do Sistema
